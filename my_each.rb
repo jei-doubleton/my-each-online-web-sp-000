@@ -1,6 +1,6 @@
-def my_each(array) {array do |item|
+def my_each(array) array do |item|
 puts item
-end}
+end
   # code here
   i = 0
 
