@@ -1,6 +1,4 @@
-def my_each(array) array do |item|
-puts item
-end
+def my_each(array) 
   # code here
   i = 0
 
