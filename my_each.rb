@@ -1,5 +1,5 @@
 def my_each(array) {array do |item|
-puts item 
+puts item
 end}
   # code here
   i = 0
